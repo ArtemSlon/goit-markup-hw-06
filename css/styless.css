@@ -589,7 +589,7 @@ padding-top: 120px;
     color: #f4f4fd;
 }
 
-/* tablet (ИСПРАВИТЬ ПРОБЛЕМУ С ШИРИНОЙ ЕЛЕМЕНТОВ ЛИСТА)*/ 
+/* tablet */ 
 @media screen and (min-width: 768px) {
 
 .fourth-section-item {
